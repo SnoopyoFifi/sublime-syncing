@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Agila Theme/Agila Light Solarized.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	]
+}

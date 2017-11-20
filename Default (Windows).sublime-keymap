@@ -1,0 +1,5 @@
+[
+	{"keys": ["ctrl+k"], "command": "toggle_side_bar"},
+	{"keys":["alt+/"], "command":"move_to", "args":{"to":"bol"} },
+	{"keys":["alt+\\"], "command":"move_to", "args":{"to":"eol"} }
+]

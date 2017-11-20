@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"ingnore_vcs_packages": true,
+	"installed_packages":
+	[
+		"A File Icon",
+		"Agila Theme",
+		"Alignment",
+		"Angular CLI",
+		"AutoFileName",
+		"Autoprefixer",
+		"ayu",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"CSScomb",
+		"CTags",
+		"DocBlockr",
+		"DocBlockr_with_update_capability",
+		"Emmet",
+		"FileDiffs",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownHighlighting",
+		"MarkdownLight",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Package Syncing",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Spacegray",
+		"Themr"
+	]
+}
